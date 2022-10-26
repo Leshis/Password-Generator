@@ -3,6 +3,7 @@ body {
     color: #ffffff;
     background: #1F2937;
     font-family: 'Karla', sans-serif;
+    min-width: 500px;
 }
 
 h1 {
